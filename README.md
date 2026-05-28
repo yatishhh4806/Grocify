@@ -39,7 +39,7 @@ A modern and responsive multipage grocery website built using **React JS** and *
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/grocify.git
+git clone https://github.com/yatishhh4806/grocify.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
